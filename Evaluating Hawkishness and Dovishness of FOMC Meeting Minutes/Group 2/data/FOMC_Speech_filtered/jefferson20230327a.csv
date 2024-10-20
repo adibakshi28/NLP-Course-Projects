@@ -1,0 +1,100 @@
+"For release on delivery  5:00 p.m. EDT March 27, 2023         Implementation and Transmission of Monetary Policy    Remarks by   Philip N."
+" Many discussions of monetary policy simply talk about the Federal Reserve setting the federal funds rate to promote our goals of maximum employment and price stability, without giving attention to the specific actions we take to put the federal funds rate where we want it —that is, to the way we implement monetary policy."
+" And even in economics classes that cover this topic, the teaching materials have not always caught up with the fact that we have purposely changed our implementation framework over the past decade.1  My colleagues at the Fed are working with educators to close the curriculum gap, and I hope this lecture will further help this endeavor.2   In honor of Dr. Willis’s important contributions to the design and creation of the Federal Reserve, today I would like to talk to you about how the Fed currently uses a specific set of tools to implement monetary policy and how monetary policy is transmitted to the economy."
+"  - 2 - The Federal Funds Market and the Fed’s Policy Target Range  As mandated by the U.S. Congress, the Federal Open Market Committee’s (FOMC) objectives are to promote maximum employment and price stability."
+ The FOMC gathers for eight regularly scheduled meetings each year to discuss economic and financial conditions and to deliberate on monetary policy.
+ We see the range increasing in 2018 as the job market was strengthening and inflation was moving up toward 2 percent.
+" That’s right—for much of the decade before then, the inflation rate was below 2 percent."
+"  Once monetary policy is set, the Fed implements monetary policy by using its policy tools to ensure that the federal funds rate (FFR) stays within the range."
+ The effective federal fund rate is determined by market forces.
+" In figure 1, you can see that the Fed has been able to implement monetary policy in such a way that the effective federal funds rate (EFFR), the black line in the figure, has indeed stayed within t he target rate range most of the time."
+" These loans are uncollateralized, and the interest rate or cost of the loans is the federal funds rate, which is determined by the supply and demand for reserve balances that financial insti tutions hold in their “checking accounts” at the Fed.3  The Fed can change the total amount of reserves available to the banking system through open market operations or its lending programs."
+" Since the Fed controls the supply of reserves and the amount t hat it supplies is independent of the interest rate, the supply of reserves is illustrated as a vertical line in the stylized supply and demand curves shown in figure 2.4  Later, I will explain why this supply curve intersects the demand curve, as shown i n figure 2."
+ The demand curve for reserves in figure 2 has three segments.
+ The top portion of the demand curve is capped by the discount rate that the Fed sets.
+" The middle of the curve is downward sloping, like most demand curves."
+" The higher the interes t rate or cost to borrow, the lower the quantity of reserves demanded."
+" In what follows, I will go deeper into the top and bottom segments of the demand c urve."
+" For a detailed d iscussion of supply and demand of reserves, see Ihrig, Senyuz, a nd Weinbach (2020)."
+"  - 4 - Implementation Tool 1:  Discount Window Rate Sets a Ceiling  At the top of the demand curve, we see the discount rate, which is the interest rate the Fed charges when it lends money to banks.5  The discount rate is an administered rate, or a rate set by the Fed, and it is one of the tools the Fed uses to implement monetary policy."
+" They are concerned that borrowing from the Fed may indicate that the bank is unable to borrow from other financial institutions, and that it sends a negative signal about their financial condition to the world.6  Such dynamics are referred to as the “stigma” associated with the use of the discount window.7  Stigma dampens the discount rate’s effectiveness as a day -today tool the Fed can use to implement monetary policy."
+" This brings me to the next rate I want to talk to you about, the interest rate on reserve balances."
+  - 5 -  Implementation Tool 2:  Interest on Reserve Balances  Close to the bottom of the demand curve is the interest on reserve balances rate denoted by IO RB rate in figure 2.
+" This is the interest rate the Fed pays on reserves eligible institutions  keep at Federal Reserve Banks.8  This interest rate is the primary  tool the Fed uses currently to implement monetary policy.9  In the graph, observe that the federal funds rate is close to this rate."
+" As a result, there is no longer a need to describe interest rates based on whether the balance satisfies a reserve balance requirement."
+" Therefore, they may have an incentive to lend funds at a much lower rate than the interest rate on reserves rather than earn zero interest on idle cash balances."
+" To ensure that these and other institutions do not charge an interest rate much lower than the interest rate on reserves, the Fed uses an overnight reverse repurchase agreement facility as a supplementary policy tool to help control the federal funds rate.13 This facility is open to a broad set of financial institutions, including money market funds (MMFs), government -sponsored enterprises, and banks that are active in financial markets where short -term interest rates are determined."
+ 14 The interest rate that a counterparty receives is the facility’s offering rate except in the highly unlikely event that the  a mount of proposi tions the Fed receives exceeds the amount of securities available for the operation.
+" In that case,  the interest rate would be determined by an auction process conducted by the Federal Reserve Bank of New York, as  described in Federal Reserve Bank of New Y ork (2023)."
+"  - 8 - rate when lending money to the Fed.15  In other words, the interest rate at this facility serves as a reservation rate, or the lowest rate lenders are willing to accept for lending out their cash."
+" In figure 3, it  is the point where supply and demand intersect."
+" In this figure, notice that the supply curve is off to the right and it intersects the flat part of the demand curve."
+" Instead, as I mentioned earlier, the key tool the Fed uses to implement monetary policy is the interest rate on reserves balances."
+" In figure 3, you can see that by moving the interest rate on reserves down, the Fed shifts the demand for reserves down and affects the federal funds rate even if the demand curve i s flat.17  A similar mechanism follows by moving the rate up."
+"  16 In January 20 19, the Fed announced that “the Committee intends to continue to implement monetary policy in a regime in which an ample supply of reserves ensures that control over the level of the federal funds rate and other short -term interest rates is exercised primar ily through the setting of the Federal Reserve’s administered rates, and in which active management of the supply of reserves is not required.”  See Board of Governors (2019a, para 2) ."
+  - 9 - is mindful about adjusting its other administered rates in sync with the interest rate on reserve balances.
+ This practice helps ensure arbitrage works to shift the demand curve as indicated.
+" Implementation Tool 4:  Open Market Operations  So far, I have talked about how the Fed influences the demand curve by changing its administered rates."
+"  Before 2008, open market operations were the Fed’s primary monetary policy tool because there were limited reserves in the banking system, a so -called scarce -reserves regime."
+" In a scarcereserves environment, the supply curve intersects the demand curve on the downwardsloping part of the demand curve, as illustrated in the left panel of figure 4."
+ The Fed would inject or drain reserves through open market operations to keep the vertical supply curve at the desired location —where it intersects the demand curve at the intended federal funds rate.
+" Today, being in an ample -reserves regime, the Fed operates on a different segment of the demand curve and uses different tools, as illustrated in the right panel of figure 4."
+"  - 10 - Technical Adjustments to the Supply of Reserves:  A Case Study  Although active management of the supply of reserves is not, by design, a feature of an ample -reserves regime, there are times when the Fed may take steps to adjust the supply of reserves to support interest rate control."
+" For example, in midSeptember 201 9, strains in funding markets emerged as quarterly corporate tax payments and the settlement of Treasury securities coincided and resulted in a large amount of cash being drained from short -term interest rate investments."
+" Although the drain in reserves associated with seasonal tax payments was expected to put some upward pressure on short -term interest rates, the increases in rates that materialized were exceptionally large by historical standards."
+" One such interest rate is the Secured Overnight Financing Rate, a broad measure of the cost of borrowing cash overnight collateralized by Treasury securities."
+ Bo th series are divided by gross domestic product because the Fed’s balance sheet should naturally increase over time with economic growth.
+" In both instances, the Fed reduced its interest rate target near zero and purchased securities, injecting reserves into the banking system."
+ The effect of purchasing securities was to reduce longer -term interest rates to support the economy.
+" Now, the Fed is fighting inflation by raising its interest rate target range and is in the process of shrinking the Fed’s balance sheet, which is referred to as quantitative tightening (QT), by passively stopping the reinvestment in some maturing Treasury securities and agency mortgagebacked securities (MBS).19     18 For more details on this event, please see Ihrig, Senyuz, and Weinbach (2020) and  Board of Governors (2019b, para."
+ 19 Lopez -Salido and Vissing -Jorgensen (2023) provide a  framework for understanding banks’ demand for central bank reserves and assess how much QT is feasible to maintain an ample -reserves environment.
+  - 12 - Summary of Tools  I’ve talked about how the Fed has four tools in its toolbox to implement monetary policy.
+ These tools also interact with other shortterm market interest rates through arbitrage relationships.
+" Monetary Policy Transmission  Now that you understand the Fed’s implementation tools, let’s see how the Fed uses them to achieve its two mandated goals:  maximum employment and price stability."
+" Currently, the unemployment rate is low, and the inflation rate is above the Fed’s 2 percent target."
+" Beginning in the second half of 2021, as the magnitude and persistence of the increase in inflation became clearer and as the job market recovery accelerated, the FOMC pivoted toward a tighter stance of monetary policy."
+" Monetary policy is transmitted to the rest of the economy by affecting financial market prices, such as long -term interest rates, which in turn affect the decisions of households and businesses."
+" Previously, I discussed how changes in the federal funds target range are transmitted to short -term interest rates, such as the overnight reverse repo rates, through arbitrage relationships."
+" Short -term interest rates, in turn, affect long -term  - 13 - interest rates through investors’ expectations."
+" More specifically, according to the expectations theory of the term structure of interest rates, i ntermediate - and long -term interest rates are the weighted average of expected future short -term interest rates.20  In addition, monetary policy affects risk premiums."
+" Tighter monetary policy tends to reduce the willingness of investors to bear risk, maki ng them less willing to invest in long -term assets, which means that their return (interest rate) must increase for investors to buy these assets.21 Figure 7 illustrates how long -term interest rates, which are widely viewed as important for businesses’ and  households’ economic decisions, move in anticipation of changes in the federal funds rate."
+ Higher long -term interest rates in crease the cost of borrowing money for households and businesses.
+" Therefore, high interest rates raise the incentive to save, which in turn dampens consumer spending on interest rate -sensitive expenditures , like housing and automobiles, and slows business es’ investment in new equipment."
+" The decrease in spending decreases the  20 Strictly speaking, the expectations theory states that long -term interest rates are entirely governed by the expected future path of short -term interest rates."
+" If policy tightens in response to inflationary shocks, t erm premiums also tend to rise as longer -ma turity bonds become riskier (Pia zzesi a nd Schneider, 2006)."
+"  - 14 - overall demand for goods and services in the economy, thereby reducing the demand/supply imbalances we have seen, and, consequently,  reduce inflationary pressures."
+" As a result, the i nflation rate should fall back toward 2 percent, the FOMC’s inflation rate target."
+ A key question is how much the tightening of financial conditions since late 2021 has contributed to reducing aggregate demand and inflationary pressures.
+" In figure 8, you can see that inflation, measured using the personal consumption expenditures price index, has started to come down."
+" Some of the disinflation, or reduction in the inflation rate, is due to monetary policy tightening, and some of this disinflation is due to other factors, such as supply chain bottlenecks easing and falling energy prices."
+" Chair Powell and other colleagues in the Federal Reserve System have pointed out that monetary policy affects the economy and inflation with long, variable, and highly unce rtain lags, and we are still learning about the full effect of our tightening thus far.22 Conclusion  In conclusion, the Fed has a congressional mandate of maximum employment and price stability."
+ The FOMC conducts monetary policy by setting the target ran ge for the federal funds rate.
+" Then, the Fed uses its monetary policy tools to implement the policy, which guides market interest rates toward the Fed’s desired setting of policy."
+ The Fed implements monetary policy using administered rates.
+ The interest rate on reserve balances is the Fed’s primary tool for adjusting the federal funds rate.
+ The overnight  22 Assessing the timing and magnitude of the effects of monetary policy on economic activity and inflation is both important and difficult.
+" The challenges arise because monetary policy both responds to and influences key mac roeconomic variables, because the structure of the economy may change over time, and because no two economic episodes are precisely the same."
+" While a common theme in the economic litera ture is tha t economic a ctivity and inflation fall in response to a tig htening monetary policy shock, the estima ted size a nd timing of the maximum effects on a ctivity and on inflation vary substantially across studies."
+" Currently, we are tightening monetary policy."
+ Changes in the federal funds rate are transmitted to other interest rates through arbitrage and by affecting investors’ expectations.
+ Changes in interest rates affect the decisions of consumers and businesses with a lag.
+ Their decisions ultimately move the economy toward maximum employment and price stability.
+" A Time -Varying Model of the Reserve Demand Curve,” Staff Report 1019."
+" “Statement Regarding Monetary Policy Implementation and Balance Sheet Normalization,” press release, January 30, https://www.federalreserve.gov/news events/pressreleases/monetary20190130c.htm."
+" “Statement Regarding Monetary Policy Implementation,” press release, October 11, https://www.federalreserve.gov/newsevents/pressreleases/monetary20191011a.htm#:~:text=%22Effective%20October%2015%2C%202019%2C,3%2F4%20to%202%20percent ."
+" “Monetary Policy Surprises, Credit Costs, and Economic Activity,” American Economic Journal:  Macroeconomics , vol."
+" “Monetary Policy and Long -Term Real Rates,” Journal of Financial Economics , vol."
+" “Let’s Close the Gap:  Updating the Textbook Treatment of Monetary Policy,” Journal of Economic Education,  https://doi.org/10.1080/00220485.2022.2075509 ."
+"“The Fed’s ‘Ample Reserves’ Approach to Implementing Monetary Policy,” Finance and Economics Discussion Series 2020022."
+"  “Expectations and the Term Structure of Interest Rates:  Evidence and Implications,” Federal Reserve Bank of Richmond , Economic Quarterly , vol."
+" “Reserve Demand, Interest Rate Control, and Quantitative Tightening,” Working Paper."
+ Implementation and Transmission of Monetary PolicyPhilip N.
+"Parker Willis Lecture at W ashington and Lee University, March 27, 2023Disclaimer: The views I will express today are my own and not necessarily those of the Federal Open Market Committee or the Federal Reserve System.Roadmap for the Lecture•How the Fed currently uses a specific set of tools to implement monetary policy•How monetary policy is transmitted to the economy•Concluding remarks234Figure 2: Stylized Supply and Demand Curves for Reserves in the Federal Funds MarketNote: FFR is federal funds rate."
+IORB is interest rate on reserve balances.
+"ON RRP is overnight reverse repurchase agreement.Source: Figure 2 in Jane Ihrig and Scott Wolla (2022), “Let’s Close the Gap: Updating the Textbook Treatment of Monetary Policy,” Journal of Economic Education, vol."
+"232– 49.5Source: Figure 3 in Jane Ihrig, Zeynep Senyuz , and Gretchen Weinbach (2020), “The Fed’s ‘Ample -Reserves’ Approach to Implementing Monetary Policy,” Finance and Economics Discussion Series 2020022 (Washington:  Board of Governors of the Federal Reserve System, February), https://doi.org/10.17016/FEDS.2020.022.6Figure 3: Fed lowers the Federal Funds Rate by Decreasing Administered RatesNote:  The blue dot indicates the previous equilibrium federal funds rate, and the red square indicates the new equilibrium federal funds rate."
+ IORB is interest rate on reserve balances.
+" ON RRP is overnight reverse repurchase agreement.Source: Figure 4 in Jane Ihrig and Scott Wolla (2022), “Let’s Close the Gap:  Updating the Textbook Treatment of Monetary Policy,” Journal of Economic Education, vol."
+ IORB is interest rate on reserve balances.
+"   Source: Figure 5 in Jane Ihrig and Scott Wolla (2022), “Let’s Close the Gap:  Updating the Textbook Treatment of Monetary Policy,” Journal of Economic Education, vol."
+"89Summary of Fed’s Toolbox10Policy Implementation Tools1.Interest on reserve balances (IORB)2.Overnight Reverse Repurchase Agreement Facility (ON RRP)3.Discount window4.Open market operationsAdministered Rates1.IORB rate2.ON RRP rate3.Discount rate1112Conclusions13•The Fed sets the target range for the federal funds rate.•The Fed uses its monetary policy tools to guide market rates toward the Fed’s desired setting of policy.•We are currently tightening monetary policy, and changes in the federal funds rate are transmitted to other interest rates through arbitrage and by affecting investors’ expectations.•Changes in interest rates affect the decisions of consumers and businesses with a lag."
