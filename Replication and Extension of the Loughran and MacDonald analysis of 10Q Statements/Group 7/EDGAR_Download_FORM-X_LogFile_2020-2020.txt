@@ -1,0 +1,7 @@
+BEGIN LOOPS:  Thu Sep 26 13:38:32 2024
+2020 | 1 | n_qtr =      105 | n_tot =      105 | n_err =      0 | Thu Sep 26 13:39:08 2024
+2020 | 2 | n_qtr =      513 | n_tot =      618 | n_err =      0 | Thu Sep 26 13:42:16 2024
+2020 | 3 | n_qtr =      501 | n_tot =    1,119 | n_err =      0 | Thu Sep 26 13:49:55 2024
+2020 | 4 | n_qtr =      496 | n_tot =    1,615 | n_err =      0 | Thu Sep 26 13:57:36 2024
+
+1,615 total forms downloaded.

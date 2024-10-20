@@ -1,0 +1,23 @@
+BEGIN LOOPS:  Thu Sep 26 13:59:41 2024
+2019 | 1 | n_qtr =       98 | n_tot =       98 | n_err =      0 | Thu Sep 26 14:01:03 2024
+2019 | 2 | n_qtr =      513 | n_tot =      611 | n_err =      0 | Thu Sep 26 14:08:01 2024
+2019 | 3 | n_qtr =      492 | n_tot =    1,103 | n_err =      0 | Thu Sep 26 14:15:11 2024
+2019 | 4 | n_qtr =      491 | n_tot =    1,594 | n_err =      0 | Thu Sep 26 14:22:09 2024
+2020 | 1 | n_qtr =      105 | n_tot =    1,699 | n_err =      0 | Thu Sep 26 14:22:45 2024
+2020 | 2 | n_qtr =      513 | n_tot =    2,212 | n_err =      0 | Thu Sep 26 14:25:45 2024
+2020 | 3 | n_qtr =      501 | n_tot =    2,713 | n_err =      0 | Thu Sep 26 14:29:35 2024
+2020 | 4 | n_qtr =      496 | n_tot =    3,209 | n_err =      0 | Thu Sep 26 14:33:03 2024
+2021 | 1 | n_qtr =      101 | n_tot =    3,310 | n_err =      0 | Thu Sep 26 14:34:27 2024
+2021 | 2 | n_qtr =      522 | n_tot =    3,832 | n_err =      0 | Thu Sep 26 14:42:06 2024
+2021 | 3 | n_qtr =      504 | n_tot =    4,336 | n_err =      0 | Thu Sep 26 14:49:25 2024
+2021 | 4 | n_qtr =      498 | n_tot =    4,834 | n_err =      0 | Thu Sep 26 14:56:43 2024
+2022 | 1 | n_qtr =      104 | n_tot =    4,938 | n_err =      0 | Thu Sep 26 14:58:03 2024
+2022 | 2 | n_qtr =      522 | n_tot =    5,460 | n_err =      0 | Thu Sep 26 15:05:29 2024
+2022 | 3 | n_qtr =      504 | n_tot =    5,964 | n_err =      0 | Thu Sep 26 15:12:48 2024
+2022 | 4 | n_qtr =      499 | n_tot =    6,463 | n_err =      0 | Thu Sep 26 15:20:04 2024
+2023 | 1 | n_qtr =      103 | n_tot =    6,566 | n_err =      0 | Thu Sep 26 15:21:29 2024
+2023 | 2 | n_qtr =      521 | n_tot =    7,087 | n_err =      0 | Thu Sep 26 15:30:18 2024
+2023 | 3 | n_qtr =      498 | n_tot =    7,585 | n_err =      0 | Thu Sep 26 15:36:02 2024
+2023 | 4 | n_qtr =      490 | n_tot =    8,075 | n_err =      0 | Thu Sep 26 15:41:58 2024
+
+8,075 total forms downloaded.
